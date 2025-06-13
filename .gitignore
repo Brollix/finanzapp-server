@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Python (si tenés algo backend en py)
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+
+# Compiled
+*.out
+*.class
+
+# VS Code
+.vscode/
+
+# Cache
+.cache/
+dist/
+build/
